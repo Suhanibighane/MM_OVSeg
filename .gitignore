@@ -1,0 +1,22 @@
+# Datasets and checkpoints
+Dataset/
+datasets/
+checkpoint/
+*.zip
+*.pth
+*.pt
+
+# Python environments
+venv/
+env/
+.env/
+__pycache__/
+*.pyc
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+.kilo/
+output/
+eval/

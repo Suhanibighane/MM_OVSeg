@@ -1,0 +1,3 @@
+#!/bin/bash
+export DETECTRON2_DATASETS=$(pwd)/Dataset
+echo "DETECTRON2_DATASETS set to $DETECTRON2_DATASETS"
